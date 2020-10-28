@@ -1,7 +1,7 @@
 # Forwardsecrecy
 
 The project aims to simplify the usage of ECC curve (curve25519) with Diffie-Hellman Key exchange.  
-The work is inline with the Account Aggregator Specification.
+The work is inline with the Account Aggregator Specification & with some minor changes, on NDHM's specifications as well.
 
 ## How to Run
 The image is pushed into docker hub. Thats the easiest to start
